@@ -8,6 +8,9 @@ namespace BDD
 {
     class TestClass
     {
-        
+        [SetUp]
+        public void SetUp() {
+
+        }
     }
 }
