@@ -15,12 +15,17 @@ namespace BDD
 
         [Test]
         public void A_test() {
+            
+        }
 
+        [Test]
+        public void AnotherTest() {
+            
         }
 
         [TearDown]
         public void TearDown() {
-            
+
         }
     }
 }
