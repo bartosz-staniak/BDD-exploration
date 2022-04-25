@@ -12,5 +12,10 @@ namespace BDD
         public void SetUp() {
 
         }
+
+        [Test]
+        public void A_test() {
+
+        }
     }
 }
