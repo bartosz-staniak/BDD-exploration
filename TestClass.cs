@@ -17,5 +17,10 @@ namespace BDD
         public void A_test() {
 
         }
+
+        [TearDown]
+        public void TearDown() {
+            
+        }
     }
 }
